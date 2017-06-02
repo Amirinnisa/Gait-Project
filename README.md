@@ -1,2 +1,2 @@
 # Gait-Project
-Processing inertial sensor data for supporting gait analysis
+some files from my undergraduate final projects program: processing inertial sensor data for supporting gait analysis
